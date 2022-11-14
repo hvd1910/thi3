@@ -4,7 +4,7 @@ app.controller("myCtrl", function ($scope) {
     console.log("My controller.....");
 
     $scope.users = [
-        {name: "Product One", email: "$22.5", fullname: "Dang Kim Thi"},
+        {name: "Product One", email: "$22.5", fullname: "Vss"},
         {name: "Product Two", email: "$15.00", fullname: "Ho Viet Duc" },
         {name: "Product Four", email: "$123.82", fullname: "Code Lean" },
         {name: "Product Five", email: "$123.75", fullname: "Code Lean" },
